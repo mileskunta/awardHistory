@@ -1,0 +1,26 @@
+
+body {
+	margin:0 auto;
+	width:772px;
+	position:relative;
+	padding:0;
+	font:75%/1.4 verdana,Helvetica,sans-serif;
+	text-align:left;
+}
+.job-detail{
+	margin-top: 20px;
+	padding: 5px 5px;
+	border: 1px solid #E4E4E4;
+}
+.job-basic-info{}
+.job-brief{}
+.job-description{}
+.label{
+	width:90px;
+	margin-left: 10px;
+	color:#E00000;
+}
+
+
+
+
